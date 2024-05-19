@@ -1,5 +1,3 @@
-Certainly! Here's a description for your "MSN Flocking Formation Control" project:
-
 ---
 
 ## MSN Flocking Formation Control
@@ -51,5 +49,3 @@ The project includes visualizations to demonstrate the flocking behavior, obstac
 **MSN Flocking Formation Control** showcases advanced techniques in multi-agent coordination, making it a valuable tool for research and development in swarm robotics and distributed systems. By combining flocking algorithms with obstacle avoidance and target tracking, this project provides a comprehensive solution for controlling and coordinating sensor nodes in dynamic environments.
 
 ---
-
-Feel free to customize this description further based on your specific implementation details and preferences!

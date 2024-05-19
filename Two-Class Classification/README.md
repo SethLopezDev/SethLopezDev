@@ -27,6 +27,6 @@ Both the Bayes decision boundary and the samples from data set A are plotted to 
 
 #### Image 2: Theoretical Probability Error
 
-Repeat experiment 1 but calculate the theoretical probability error (e.g., Bhattacharyya bound).
+Repeated the experiment from image 1 but using data set B and calculated the theoretical probability error (e.g., Bhattacharyya bound).
 
 <img src="images/2.png" alt="Theoretical Probability Error Set B" width="400">

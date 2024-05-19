@@ -30,20 +30,25 @@ This project involves designing and implementing a Kalman filter to fuse data fr
 ## Results
 
 ### Static Sensor Network
+*Reporting the KF results*
 
-![Mean-Square Error (Convergence)](images/mse_convergence.png)
-*Mean-Square Error between the estimated values and the ground truth.*
+<img src="images/1.png" alt="Mean-Square Error (Convergence)" width="400"><br>
+<img src="images/2.png" alt="Mean-Square Error (Convergence)" width="400"><br>
+*Adding noise to the GPS covariance data*
 
-![Node Degree Error](images/node_degree_error.png)
-*Mean-Square Error of the node with the largest number of neighbors and the node with the smallest number of neighbors.*
+<img src="images/3.png" alt="Mean-Square Error (Convergence)" width="400"><br>
+<img src="images/4.png" alt="Mean-Square Error (Convergence)" width="400"><br>
+Adding noise to the IMU covariance data.*
 
-![Initial vs Final Estimates](images/initial_vs_final.png)
-*Initial measurements versus the final estimates of all sensor nodes.*
+<img src="images/5.png" alt="Mean-Square Error (Convergence)" width="400"><br>
+<img src="images/6.png" alt="Mean-Square Error (Convergence)" width="400"><br>
 
 ### Dynamic Sensor Network
+*Adding noise to the GPS position data with changed covariance*
 
-![Dynamic Mean-Square Error (Convergence)](images/dynamic_mse_convergence.png)
-*Mean-Square Error between the estimated values and the ground truth in a dynamic network.*
+<img src="images/7.png" alt="Mean-Square Error (Convergence)" width="400"><br>
+<img src="images/8.png" alt="Mean-Square Error (Convergence)" width="400"><br>
+
 
 ### Conclusion
 

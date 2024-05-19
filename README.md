@@ -45,6 +45,6 @@ I am actively seeking job opportunities and am open to collaborations in any com
 
 ### Fun Fact
 
-I have a passion for ice cream, with Oreo being my favorite flavor!
+Oreo is my favorite icecream flavor!
 
 ---

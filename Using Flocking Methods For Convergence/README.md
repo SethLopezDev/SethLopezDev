@@ -40,18 +40,15 @@ The following visualizations are generated to analyze the performance of the con
 
 #### Static Sensor Network
 
-![Mean-Square Error (Convergence)](images/mse_convergence.png)
+![Mean-Square Error (Convergence)](images/3.png)<br>
 *Mean-Square Error between the estimated values and the ground truth.*
 
-![Node Degree Error](images/node_degree_error.png)
+![Node Degree Error](images/5.png)<br>
 *Mean-Square Error of the node with the largest number of neighbors and the node with the smallest number of neighbors.*
-
-![Initial vs Final Estimates](images/initial_vs_final.png)
-*Initial measurements versus the final estimates of all sensor nodes.*
 
 #### Dynamic Sensor Network
 
-![Dynamic Mean-Square Error (Convergence)](images/dynamic_mse_convergence.png)
+![Dynamic Mean-Square Error (Convergence)](images/7.png)<br>
 *Mean-Square Error between the estimated values and the ground truth in a dynamic network.*
 
 ### Conclusion

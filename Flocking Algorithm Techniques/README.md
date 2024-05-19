@@ -1,5 +1,3 @@
----
-
 ## MSN Flocking Formation Control
 
 ### Description
@@ -40,12 +38,12 @@
 
 The project includes visualizations to demonstrate the flocking behavior, obstacle avoidance, and target tracking capabilities of the sensor nodes. Below are some example visualizations:
 
-![Flocking Formation](images/flocking_formation.png)
-![Obstacle Avoidance](images/obstacle_avoidance.png)
-![Target Tracking](images/target_tracking.png)
+![Flocking Formation A](images/4.png)<br>
+![Flocking Formation B](images/5.png)<br>
+![Obstacle Avoidance](images/13.png)<br>
+![Obstacle Avoidance](images/14.png)<br>
+![Target Tracking](images/9.png)
 
 ### Conclusion
 
 **MSN Flocking Formation Control** showcases advanced techniques in multi-agent coordination, making it a valuable tool for research and development in swarm robotics and distributed systems. By combining flocking algorithms with obstacle avoidance and target tracking, this project provides a comprehensive solution for controlling and coordinating sensor nodes in dynamic environments.
-
----

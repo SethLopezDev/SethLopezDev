@@ -23,10 +23,10 @@ Use the Box-Muller transformation to generate the samples from each distribution
 
 Both the Bayes decision boundary and the samples from data set A are plotted to better visualize how the Bayes rule would classify the data in this case.
 
-![Bayes Decision Boundary and Data Set A](path_to_image_1.png)
+<img src="images/1.png" alt="Bayes Decision Boundary and Data Set A" width="400">
 
 #### Image 2: Theoretical Probability Error
 
 Repeat experiment 1 but calculate the theoretical probability error (e.g., Bhattacharyya bound).
 
-![Theoretical Probability Error](path_to_image_2.png)
+<img src="images/2.png" alt="Theoretical Probability Error Set B" width="400">

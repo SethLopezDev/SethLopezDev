@@ -37,7 +37,6 @@ As a hardworking and motivated individual, I am eager to contribute to and learn
 ### Achievements
 
 - **Volunteer Work**: Earned recognition for my contributions to Habitat for Humanity.
-- **Research Collaboration**: Participated in a research project on emotional distress involving a robotic baby.
 
 ### Collaboration & Opportunities
 
